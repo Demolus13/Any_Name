@@ -1,3 +1,7 @@
+"""
+This module contains functions for basic arithmetic operations and greetings.
+"""
+
 def greet(name):
     """
     Function to greet a person with their name.
