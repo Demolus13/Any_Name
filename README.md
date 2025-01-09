@@ -1,4 +1,4 @@
-# Lab Assignment 1
+# CS 202 - Lab Assignment 1
 
 **Course:** CS202 Software Tools and Techniques for CSE  
 **Lab Topic:** Introduction to Version Controlling, Git Workflows, and Actions  
